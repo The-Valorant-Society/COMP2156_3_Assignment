@@ -1,1 +1,3 @@
 It's important to know DevOps as it teaches best practices for coding in a group setting.
+
+DevOps is crucial to learn in order to have a proper development cycle out in the real world for both small and large projects.

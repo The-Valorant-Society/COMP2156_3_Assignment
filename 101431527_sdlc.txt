@@ -16,3 +16,6 @@ Cloud-based platforms. The use of hardware resources during development ties up 
 Build acceleration tools for faster compilation of code. 
 Parallel workflow processes, for smoother operation of the continuous delivery chain.
 
+5. Work with Good Developers 
+Poor code is all too common, though sadly, users arrive at this realization when it’s too late. The fact is, some developers are good at what they do, while others have poor coding skills. DevOps has a solution to this problem. Frequent assessment makes it easier to assess the performance of developers within a DevOps team so that each team member is tasked with responsibilities most suited to their skills. 
+

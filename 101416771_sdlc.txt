@@ -1,3 +1,5 @@
+# This file is owned by Yan Cherkavskyi
+
 To learn DevOps is very crucial for DevOps engineer.
 
 Development Operations will heavily impact the software development cycle.

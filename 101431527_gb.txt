@@ -4,4 +4,7 @@ Established: 1967
 Institution Type: Public
 Chancellor: Noella Milne
 President: Dr. Gervan Fearon
-
+Sports Team: Huskies
+Colours: Blue and White
+Affiliations: CCAA, ACCC, AUCC, CBIE, Polytechnics Canada, CUP.
+Website: georgebrown.ca

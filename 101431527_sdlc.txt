@@ -9,3 +9,10 @@ Programming errors is one of the leading reasons why a deployment fails. The fre
 3. Improved Collaboration and Communication 
 DevOps has revolutionized software development culture. This is because when all stakeholder teams take part in the development process, they focus on a common goal instead of working with different objectives. More synergy improves communication. Better communication leads to seamless development cycles, quick error discovery/resolution, and faster route to market. 
 
+4. Increased Efficiency Through Automation 
+Continuous integration reduces manual processes in developing and testing. Specific tasks in the development process cannot be automated. DevOps focusses the developers’ attention on those tasks, leaving the other tasks to tools that can accelerate development, such as: 
+
+Cloud-based platforms. The use of hardware resources during development ties up relevant system infrastructure unnecessarily. Scalable infrastructures like cloud-based platforms resolve this problem, resulting in speedier processes. 
+Build acceleration tools for faster compilation of code. 
+Parallel workflow processes, for smoother operation of the continuous delivery chain.
+

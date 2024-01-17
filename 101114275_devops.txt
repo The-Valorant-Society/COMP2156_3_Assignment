@@ -1,0 +1,1 @@
+This course DevOps teaches us the best practices when it comes to doing coding in a group environment.

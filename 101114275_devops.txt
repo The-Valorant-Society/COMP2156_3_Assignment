@@ -1,1 +1,3 @@
+This course is taught by Pritesh Patel and the course code is COMP2156
+
 This course DevOps teaches us the best practices when it comes to doing coding in a group environment.

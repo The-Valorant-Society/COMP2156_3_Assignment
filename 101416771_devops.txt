@@ -1,3 +1,5 @@
 Our professor is Patel Pritesh.
 
 Our course code is COMP2156.
+
+Our slack channel is #gbcw2024-comp2156

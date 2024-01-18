@@ -1,3 +1,4 @@
 # file contains info on GBC
 George Brown is a college.
 It is located in Ontario.
+It is near Casa Loma.

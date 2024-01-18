@@ -1,2 +1,3 @@
 # file contains info about importance of learning devops engineering software development cycle
 To optimize workflow in software development.
+It is crucial to reduce wasted time.

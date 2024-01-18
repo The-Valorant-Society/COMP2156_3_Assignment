@@ -1,0 +1,2 @@
+# file contains info on GBC
+George Brown is a college.

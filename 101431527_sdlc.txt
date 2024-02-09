@@ -1,0 +1,21 @@
+Anyone involved in software creation, either from the development end or from the end of the operation, will benefit a lot from learning DevOps. Depending on your experience and skill level, you could enroll for DevOps certification course to access career benefits such as:
+
+1. Shorten Production Cycles
+Siloed development and operations teams extend the production cycle unnecessarily. It becomes harder for both teams to collaborate on the processes required to get the software operational. Close collaboration through the elimination of silos speeds up innovation and development.
+
+2. Increase Deployment Success Rates
+Programming errors is one of the leading reasons why a deployment fails. The frequent release of code occasioned with the DevOps approach ensures problem detection at an earlier stage. With dev and ops teams working together, recovery time is a lot shorter.
+
+3. Improved Collaboration and Communication 
+DevOps has revolutionized software development culture. This is because when all stakeholder teams take part in the development process, they focus on a common goal instead of working with different objectives. More synergy improves communication. Better communication leads to seamless development cycles, quick error discovery/resolution, and faster route to market. 
+
+4. Increased Efficiency Through Automation 
+Continuous integration reduces manual processes in developing and testing. Specific tasks in the development process cannot be automated. DevOps focusses the developers’ attention on those tasks, leaving the other tasks to tools that can accelerate development, such as: 
+
+Cloud-based platforms. The use of hardware resources during development ties up relevant system infrastructure unnecessarily. Scalable infrastructures like cloud-based platforms resolve this problem, resulting in speedier processes. 
+Build acceleration tools for faster compilation of code. 
+Parallel workflow processes, for smoother operation of the continuous delivery chain.
+
+5. Work with Good Developers 
+Poor code is all too common, though sadly, users arrive at this realization when it’s too late. The fact is, some developers are good at what they do, while others have poor coding skills. DevOps has a solution to this problem. Frequent assessment makes it easier to assess the performance of developers within a DevOps team so that each team member is tasked with responsibilities most suited to their skills. 
+

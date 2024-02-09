@@ -1,0 +1,4 @@
+# file contains info about COMP2156 DevOps
+COMP 2156 is the Development Operations class.
+It will be using GitHub to organize workflow.
+I look forward to the simulated work experience

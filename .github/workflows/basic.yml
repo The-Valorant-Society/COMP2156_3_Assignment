@@ -1,0 +1,9 @@
+name: basic-action
+run-name: ${{ github.actor }} pushed to repository
+on: [push]
+jobs:
+  check-bats-version:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: echo someone pushed
